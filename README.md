@@ -1,3 +1,3 @@
-[![Stats](./profile/stats.svg)
+![Stats](./profile/stats.svg)
 </br>
-[![Top Langs](./profile/top-langs.svg)
+![Top Langs](./profile/top-langs.svg)
